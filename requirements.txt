@@ -3,4 +3,4 @@ pandas
 numpy
 plotly
 scikit-learn
-keras
+tensorflow-cpu==2.15.0
