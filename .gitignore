@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Thư mục môi trường ảo (nếu có)
+venv/
+.venv/
+env/
+
+# Cấu hình cá nhân của VS Code
+.vscode/
+
+# File dữ liệu lịch sử chạy local tự sinh (nếu muốn reset)
+*.db
+*.db-journal
